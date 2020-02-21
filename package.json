@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@antv/wx-f2": "^2.0.1"
+  }
+}
